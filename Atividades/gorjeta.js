@@ -10,5 +10,4 @@ if (atendimento == "sim") {
 }
  else {
     console.log(valorJantar);
-    
  }
